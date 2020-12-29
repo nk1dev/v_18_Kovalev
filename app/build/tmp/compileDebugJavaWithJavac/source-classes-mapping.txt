@@ -1,0 +1,4 @@
+com/example/v_18_kovalev/BuildConfig.java
+ com.example.v_18_kovalev.BuildConfig
+com/example/v_18_kovalev/MainActivity.java
+ com.example.v_18_kovalev.MainActivity
